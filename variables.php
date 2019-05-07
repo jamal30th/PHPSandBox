@@ -10,4 +10,6 @@
 $greeting1 = "$string1 $string2";
 define('greetings', 'Hello everyone', true);
 echo greetings;
+
+
     ?>
